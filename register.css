@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(Skin.1.jpg);
+   
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+label{
+    color: rgb(0, 0, 0);
+}
+
+h1{
+ color: rgb(0, 0, 0);
+}
+.card{
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
